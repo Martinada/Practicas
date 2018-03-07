@@ -1,0 +1,7 @@
+agrupar links en lista, en menu, en <p>
+span sirve para separar un bloque de texto y dsp me permite darle estilos por separado
+header es un contenedor que esta nomenclado, lo estoy distinguiendo (es como un div)
+
+selectores de clase, de elemento, de id
+las clases y los id son atributos para todos los elementos y pueden coexistir. id no se puede repetir. la clase se llama en
+css con un . y el id con #

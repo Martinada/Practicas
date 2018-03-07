@@ -1,0 +1,29 @@
+git remote add origin +url
+vinculamos los repo remoto con local
+para ver si lo hicimos bien ponemos, git remote -v
+
+git remote rm origin
+
+borro el vinculo, no es necesario escribir de nuevo la url.
+
+
+git add nombrearchivo (cuando es solo un archivo)
+git add . (sube todo lo que cambiamos)
+
+
+orden de las cosas
+
+git init
+git status
+git add
+git status (not necessary)
+git commit -m (agrego comentario) (version local)
+git push origin nombrebranch (lo hago al fin del dia)
+
+git pull origin master (me traigo los cambios del remoto) (lo que hago a la ma;ana como primer paso)
+
+
+
+
+cuando me abre una nueva pantalla porque se realizo un merge automatico para salir tengo que apretar esc :wq
+en este tipo de merge no tengo que decidir yo, el programa lo hace solo y me lo informa.

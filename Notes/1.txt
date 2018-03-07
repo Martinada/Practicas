@@ -1,0 +1,23 @@
+<html> abre </html> cierra
+
+<head> encabezado, etiquetas q brindan info pero que no se ven en el browser. Ej: <title> Hola mundo </title>
+aca se linkean cosas como las hojas de estilo css, fuentes adicionales, codigo JS, etc. </head>
+
+<body> parte visible. estructura. Algunos componentes: encabezados <h1> no se deberia poner mas de un h1 por documento. 
+bloques de codigo comunes <p> parrafos. imagenes <img src "___"> <a href "#"> loqesea </a>
+
+<b> negrita. <strong> texto en negrita pero tmb indica q es importante. </strong> <i> en cursiva <small> <del> tachado
+<sub> subindice <sup> superindice
+etiqueta <a> tiene como atriubuto href y target. target="_blank" para que abra en una nueva pagina el link.
+
+pagina con todas las etiquetas w3school.com
+
+id es un atributo de todas las etiquetas, se lo puedo poner a cualquier etiqueta. me sirve para indentificar de forma UNICA
+un elemento html. se usa cuando necesite dar estilo, animar, escribir info, etc. no usar nros para identificar id.
+
+hay dos tipos de elemento en linea y en bloque. en linea por ejemplo imagenes y link, si hay espacio se van a poner uno al
+lado del otro. elementos de bloque ocupan todo el ancho y van a aparecer uno al lado del otro por ejemplo los div.
+el comportamiento de linea o de bloque es uno de los atributos de los elementos, se puede modificar mendiante css.
+
+selectores hay con id o por elemento. de elemento son <p> <a> etc etc, es filtrar por etiqueta. los id sirven para indentificar
+y dsp poder dar estilo a esos elementos llamandolos con el .id
