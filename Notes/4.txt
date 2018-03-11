@@ -1,0 +1,16 @@
+cada browser tiene un display distinto, padding. *{} esta nomenclatura afecta globalmente a todo. para que la pagina quede
+bien pegadita a los margenes debemos eliminarlos *{margin:0;}
+normalize es una hoja de estilos que elimina todos los estilos que vienen por default (margenes,puntitos en las listas,etc)
+para agregarla tenemos q ponerla en cascada, en el head linkear primero normalize para q dsp nuestro css lo pise.
+text aling sirve siempre y cuando el texto este dentro de algo (que sea texto interno, que este contenido dentro de un
+contenedor padre), por ej un div. y sea de bloque.
+
+PARA CAMBIAR COMPORTAMIENTO DE BLOCK A INLINE
+en css usamos la etiqueta display.
+
+idealmente para hacer un navegador debemos usar listas. 
+
+margin es entre elementos del mismo nivel. padding es entre lo q esta contenido y su contenedor (el contenido con respecto
+al padre)
+
+manejamos altura con padding, asi queda responsive.

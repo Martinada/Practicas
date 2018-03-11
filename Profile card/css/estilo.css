@@ -1,0 +1,24 @@
+.card {
+    box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+.img{
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+h1{
+  color: #BA75FF;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+}
+
+.parrafo{
+  font-family: 'Oswald', sans-serif;
+  color: #F986B8;
+}

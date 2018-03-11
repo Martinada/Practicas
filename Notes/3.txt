@@ -1,0 +1,22 @@
+cuando hacemos git commit debemos poner git commit -m "comentario" sino nos abre un editor de texto raro (para salir de ese
+editor escribimos :q y si escribimos algo ponemos :wq
+
+HTML 5
+Strong no solo pone en negrita el texto sino tmb lo resalta en importancia, eso es la novedad con html 5, resalta semanticamente
+los elementos. Un elemento semantico describe el contexto de su contenido tanto al browser como al desarrollador.
+algunos ejemplos de elementos semanticos: <form> <table> <article> 
+
+viewport es una etiqueta del area visible de una web. es un META, va en el head.
+<meta name=viewport content="width-device-width, initial-scale=">
+width establece el ancho para que sea as big as the screen.
+initial nivel de zoom inicial.
+
+figcaption es el pie de pagina. se puede agrupar la imagen y el pie de pagina en una sola etiqueta q es figure.
+figcaption va dentro de figure.
+
+Propiedad de display. Bloque o linea.
+elemento en linea ocupa espacio horizontal del contenido q tenga y no genera saltos de linea.
+los comportamientos de bloque y linea NO SE HEREDAN (todo lo q tiene q ver con posicionamientos no se hereda)
+por mas q tenga un img(de linea) dentro de un div(de bloque), img se va a seguir comportando como en linea.
+img, span, a son ejemplos de elementos en linea
+div, p, todos los h, ul, il, son de bloque. los de bloque no dejan espacio a su derecha para que se ponga nada.

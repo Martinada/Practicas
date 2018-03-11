@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.h1{
+  color: white;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.izq{
+  width: 80px;
+  height: 80px;
+  float: left;
+  padding-left: 10px;
+}
+
+.head{
+  background: black;
+  width: auto;
+  height: 100px;
+}
+
+
+
+
+.b1{
+  background: orange;
+}
+.b2{
+  background: pink;
+}
+.b3{
+  background: yellow;
+}
+.b4{
+  background: purple;
+}
+header{
+    margin-bottom: 30px;
+}
+
+nav{
+  text-align: center;
+}
+
+section{
+  margin: 0 auto;
+
+}
+.pink {
+  background: pink;
+  width: 45%;
+  height: 180px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.blue{
+  background: blue;
+  height: 80px;
+  margin-bottom: 30px;
+}
+
+.green {
+  background: green;
+  width: 33%;
+  height: 120px;
+  display: inline-block;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.yellow{
+  background: yellow;
+  height: 80px;
+  margin-bottom: 30px;
+}

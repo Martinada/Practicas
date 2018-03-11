@@ -5,3 +5,34 @@ header es un contenedor que esta nomenclado, lo estoy distinguiendo (es como un 
 selectores de clase, de elemento, de id
 las clases y los id son atributos para todos los elementos y pueden coexistir. id no se puede repetir. la clase se llama en
 css con un . y el id con #
+
+
+letra capital
+html:
+<p> <span class="capital">L</span>a casa de papel </p>
+css:
+.capital{
+font-size: 2em;}
+
+tmb puedo llamarlo como 
+spanCapital {} en caso de que tenga otra cosa con la misma clase
+.capital _____ span {} esto se lee de derecha a izq
+
+
+los atributos no se pueden repetir en la misma etiqueta, no puedo poner dos class en una misma linea (si un class y un id)
+para poner dos caracteristicas en una misma class es <p><span class="capital consonante">L</span>a casa de papel.
+
+
+
+
+git.
+git init se hace en la carpeta "madre" donde voy a guardar las subcarpetas en las q voy a trabajar.
+ls -la para ver si tengo un archivo .git
+git init (cuando ya me pare en la carpeta donde lo tengo q hacer)
+git status (si hay cosas en rojo es porque no estan siendo trackeadas)
+git add . (me agrega toodo lo nuevo y todo lo modificado)
+git commit (genero la version, hago mi paquetito, saco la instantanea) git commit -m "aca va un mensaje"
+git remote add origin + url (agrego desde git en mi maquina a git hub en la nube, vinculo local con remoto)
+git push origin master 
+dsp de pushear deberia ver las carpetas subidas en mi repo de git hub
+git remote -v (me indica con q repo esta vinculado, a donde se esta mandando lo q subo)
