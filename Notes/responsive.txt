@@ -1,0 +1,2 @@
+lo q puede cambiar de mobile a web son los assest, como imagenes sobretodo por el peso. el layout sufre modificaciones, 
+tiene que cambiar (dispositivos chicos son todo en una linea por ej) puede ser muy distinto de una pantalla a la otra.

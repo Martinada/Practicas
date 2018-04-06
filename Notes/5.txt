@@ -1,0 +1,10 @@
+float es movimiento a izq o derecha, todos los nodos html tienen un propiedad de flotacion
+over-float es el desborde sobre el div. tengo q esconder lo q me sobra para dsp desplegarlo con un evento de usuario.
+
+
+POSITION.
+Posicion por default es siempre static.
+Con absolut y fixed inauguramos una nueva capa. Fixed queda pegoteado, absolut se mueve con el scroll. Los elementos se van
+a ubicar en el especio que queda libre
+Con relative todo se trabaja en la misma capa. El elemento al moverlo deja su "alma" en el lugar anterior que estuvo, nadie
+se va a meter ahi. Puedo colocarle coordenadas exactas para que se ubique mi caja

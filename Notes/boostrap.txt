@@ -1,0 +1,4 @@
+siempre hay un container o un contariner fluido, dsp tengo un div con rows y luego las columnas. fila/columna/fila/columna,
+el anidamiento es en capas. (row y column son class)
+SIEMPRE las cosas comienzan con un row, no importa lo que sea.
+cada vez q inicio un row habilito nuevamente 12 columnas.

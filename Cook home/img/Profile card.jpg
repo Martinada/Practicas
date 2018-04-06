@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- saved from url=(0091)file:///C:/Users/Tinker/Desktop/ADAPracticas/Trabajo%20en%20clase/Profile%20card/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Profile card</title>
+    <link rel="stylesheet" href="./Profile card_files/estilo.css">
+    <link href="./Profile card_files/css" rel="stylesheet">
+
+  </head>
+  <body class="card">
+
+      <figure>
+        <img class="pic" width="200px" src="./Profile card_files/ti cv.jpg" alt="Martina">
+        <img class="bandera" src="./Profile card_files/uy.png" alt="Uruguay">
+      </figure>
+
+
+      <h1>Martina González Recabarren</h1>
+
+      <div class="parrafo">
+
+
+        <h2>Future Dev</h2>
+
+        26 y.o student. Looking to change my life and to achive my wildest dreams.
+        Love to travel, pizza and riding bike on sunny days.
+    </div>
+
+
+
+        <a href="http://www.facebook.com/tina.gonzalezrecabarren" target="_blank"><img class="img" src="./Profile card_files/f.jpg"></a>
+
+
+
+        <a href="http://www.twitter.com/" target="_blank"> <img class="img" src="./Profile card_files/tbnw.jpg" alt="Twitter"></a>
+
+
+
+        <a href="http://www.github.com/Martinada" target="_blank"> <img class="img" src="./Profile card_files/g.png" alt="GitHub"></a>
+
+
+        <a href="http://www.instagram.com/tinker.gr" target="_blank"> <img class="img" src="./Profile card_files/i.png" alt="Instagram"></a>
+
+
+  
+
+</body></html>

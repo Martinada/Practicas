@@ -14,3 +14,5 @@ margin es entre elementos del mismo nivel. padding es entre lo q esta contenido 
 al padre)
 
 manejamos altura con padding, asi queda responsive.
+
+cuando me paso de pixeles para el especio q tengo destinado para algo, tengo q usar la propiedad box sizing.

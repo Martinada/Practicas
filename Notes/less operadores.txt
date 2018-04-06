@@ -1,0 +1,17 @@
+operadores matematicos *, /, +, - (modulo es el resto de una operacion) 
+
+operadores de comparacion matematica <, >, <=, >=
+!=, ==(comparacion), !, === (equivalencia 3 === 3.0 ---> FALSO. mismo valor pero distinto tipo de dato. 3 es entero y 3.0
+es decimal. 3==3.0 ----> VERDADERO porque tienen el mismo valor)
+
+operadores logicos
+
+and && se toma como multiplicacion. fxf=f fxv=f vxf=f vxv=v 
+or ll se toma como suma. f+f=f f+v=v v+f=v v+v=v
+not ! se toma como el contrario, es para un solo elemento. f!=v v!=f
+
+el 'and' tiene un presedencia mayor que la de or. el not va siempre pegado al elemento y se aplica a lo que mas cerca tiene.
+!x&&y ---> solo aplica a x. !(x&&y) ---> aplica a todos.
+
+variable string es una cadena de caracteres
+

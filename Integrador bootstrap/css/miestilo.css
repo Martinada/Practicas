@@ -1,0 +1,111 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.black{
+  background: black;
+  height: 400px;
+  }
+
+.yellow{
+  background: yellow;
+  height: 400px;
+}
+
+.cyan{
+background: cyan;
+height: 400px;
+}
+
+.green{
+background: green;
+height: 400px;
+}
+
+.magenta{
+background: magenta;
+height: 400px;
+}
+
+.red{
+background: red;
+height: 400px;
+}
+
+.blue{
+background: blue;
+height: 400px;
+}
+
+
+.a{
+  background: black;
+  height: 100px;
+}
+.b{
+  background: #0F0F0F;
+  height: 100px;
+}
+.c{
+  background: #1f1f1f;
+  height: 100px;
+}
+.d{
+  background: #2f2f2f;
+  height: 100px;
+}
+.e{
+  background: #3f3f3f;
+  height: 100px;
+}
+.f{
+  background: #4f4f4f;
+  height: 100px;
+}
+.g{
+  background: #5f5f5f;
+  height: 100px;
+}
+.h{
+  background: #6f6f6f;
+  height: 100px;
+}
+.i{
+  background: #7f7f7f;
+  height: 100px;
+}
+.j{
+  background: #8f8f8f;
+  height: 100px;
+}
+.k{
+  background: #9f9f9f;
+  height: 100px;
+}
+.l{
+  background: white;
+  height: 100px;
+}
+
+.mitadNegra{
+  background: black;
+  height: 100px;
+}
+
+.black2{
+  background: black;
+  height: 80px;
+}
+.cyan2{
+  background: cyan;
+  height: 80px;
+}
+.magenta2{
+  background: magenta;
+  height: 80px;
+}
+.blue2{
+  background: blue;
+  height: 80px;
+}

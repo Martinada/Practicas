@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin-top: 50px;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+.pelota {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  border-radius: 100px;
+}
+.azul {
+  background-color: blue;
+}
+.azul:hover {
+  background: rgba(255, 255, 0, 0.5);
+}
+.verde {
+  background-color: green;
+}
+.verde:hover {
+  background: #7f00ff;
+}
+.rojo {
+  background-color: red;
+}
+.rojo:hover {
+  background: #ffb366;
+}

@@ -1,0 +1,17 @@
+
+
+.burguer{
+  float: right;
+}
+
+
+.cartera{
+  background: pink;
+  width: 33%;
+  height: 130px;
+  display: inline-block;
+}
+
+@media (max-width:480px) {
+
+}

@@ -19,4 +19,4 @@ elemento en linea ocupa espacio horizontal del contenido q tenga y no genera sal
 los comportamientos de bloque y linea NO SE HEREDAN (todo lo q tiene q ver con posicionamientos no se hereda)
 por mas q tenga un img(de linea) dentro de un div(de bloque), img se va a seguir comportando como en linea.
 img, span, a son ejemplos de elementos en linea
-div, p, todos los h, ul, il, son de bloque. los de bloque no dejan espacio a su derecha para que se ponga nada.
+div, p, todos los h, ul, il, form, header son de bloque. los de bloque no dejan espacio a su derecha para que se ponga nada.
