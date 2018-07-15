@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Kavivanar" rel="stylesheet">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/estilo.css">
+  <title>Memo-test</title>
+</head>
+
+<body>
+  <div class="contener">
+    <div class="instrucciones">
+      <h1>MEMOTEST ADA</h1>
+      <h3>Welcome <span id="name"></span></h3>
+      <p><br>
+        Memory has long been a favorite game for all generations.<br>
+        It is easy to play, in fact it is so simple that really young children can play with ease.<br>
+        It requires observation, concentration and a good memory to win.<br>
+        Click on the cards to reveal the image and find each card partner. <br>
+        The game is over when all pairs are found.<br>
+      </p>
+    </div>
+
+    <div class="imagenes">
+
+      <div class="deck" id="card-deck">
+        <img class="ficha" id="0" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="1" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="2" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="3" src="img/back.jpg" draggable="false">
+      </div>
+
+      <div class="secondRow">
+        <img class="ficha" id="4" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="5" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="6" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="7" src="img/back.jpg" draggable="false">
+      </div>
+
+      <div class="thirdRow">
+        <img class="ficha" id="8" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="9" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="10" src="img/back.jpg" draggable="false">
+        <img class="ficha" id="11" src="img/back.jpg" draggable="false">
+      </div>
+
+    </div>
+
+
+    <div class="ranking-div">
+      <h2>Ranking</h2>
+      <ul class="listita">
+      </ul>
+    </div>
+
+    <div class="boton">
+      <a class="btn btn-info" href="inicio.html">Play again!</a>
+    </div>
+
+
+  </div>
+
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery-ui.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/mainY.js"></script>
+
+</body>
+</html>

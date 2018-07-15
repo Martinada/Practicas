@@ -1,0 +1,14 @@
+Las animaciones CSS3 permiten animar la transición entre un estilo CSS y otro. 
+Las animaciones constan de dos componentes: un estilo que describe la animación CSS y un conjunto 
+de fotogramas que indican su estado inicial y final, así como posibles puntos intermedios en la misma.
+
+
+Las animaciones CSS tienen tres ventajas principales sobre las técnicas tradicionales de animación basada en scripts:
+
+Son muy fácil usar para animaciones sencillas, puedes hacerlo incluso sin tener conocimientos de Javascript.
+La animación se muestra correctamente, incluso en equipos poco potentes. Animaciones simples realizadas en Javascript
+pueden verse mal (a menos que estén muy bien echas). El motor de renderizado puede usar técnicas de optimización como
+el "frame-skipping" u otras tecnicas para manteber que la animación se vea tan suave como sea posible.
+Al ser el navegador quien controle la secuencia de la animación, permitimos que optimice el rendimiento y eficiencia de 
+la misma, por ejemplo, reduciendo la frecuencia de actualización de la animación ejecutándola en pestañas que no estén 
+visibles.

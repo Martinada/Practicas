@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Kavivanar', cursive;
+  color: darkmagenta;
+  background-image: url("../img/fondo.jpg");
+  width: 500px;
+  height: auto;
+}
+/*.contener{
+  display: flex;
+  flex-direction: row;
+}
+*/
+.imagenes{
+  width: 650px;
+  height: auto;
+  padding: 15px;
+  border: solid;
+}
+
+.imagenes img{
+  width: 150px;
+  height: 150px;
+  border: solid;
+  border-color: darkmagenta;
+}
+
+.instrucciones{
+  padding-right: 30px;
+}
+
+div img{
+  cursor: pointer;
+}
+
+.contenedor{
+  position: relative;
+}
+.main{
+  font-family: 'Kavivanar', cursive;
+  position: absolute;
+  top: 230px;
+  left: 500px;
+  width: 400px;
+  height: auto;
+  padding: 30px;
+  background: darkmagenta;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  align-content: center;
+  flex-flow: column;
+}
+button{
+  font-family: 'Kavivanar', cursive;;
+  background: #afc5da;
+  color: darkmagenta;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 25px;
+}
