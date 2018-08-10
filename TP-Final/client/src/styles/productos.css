@@ -1,0 +1,39 @@
+.body{
+  background: #DDD;
+  font-family: "Open Sans", serif;
+}
+a{
+  text-decoration: none;
+}
+.DivContenedor{
+  background: white;
+  margin-left: 8.34%;
+  margin-top: 20px;
+  width: 83.06%;
+  padding: 20px;
+}
+.breadcrumb{
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+}
+.mainDiv{
+  background: #E3D6CE;
+  margin: 20px;
+  padding: 5px;
+  height: 200px;
+}
+.imagen{
+  width: 50px;
+  height: 10px;
+}
+.imagen img{
+  width: 150px;
+  height: 150px;
+  padding: 30px;
+}
+.ubicacion{
+margin-right: 20px;
+display: flex;
+justify-content: flex-end;
+}

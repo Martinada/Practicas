@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  text-align: center;
+}
+.img{
+  width: 1200px;
+  height: 440px;
+  text-align: center;
+}
+.medio{
+  margin-right: 100px;
+  color: #f986b8;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Cormorant Garamond', serif;
+
+}
+.boton{
+  border: none;
+  background-color: #f986b8;
+  font-size: 18px;
+  font-family: 'Cormorant Garamond', serif;
+  color: white;
+}
+.boton:hover{
+  background: cyan;
+}
+.red{
+  width: 36px;
+  height: 36px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.redes{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 200px;
+}
+footer{
+  font-size: 12px;
+  font-family: 'Cormorant Garamond', serif;
+}
+.fabajo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 150px;
+  margin-top: 300px;
+}
